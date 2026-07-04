@@ -35,6 +35,10 @@ It supports four mapping modes: Simplified↔Traditional (Hong Kong), Simplified
 
 ## 安裝
 
+🎉現已支持透過Obsidian社區插件市場安裝～🎉
+
+or：
+
 1. 下載最新的 [Release](https://github.com/Yorkli1/Unified-Chinese-characters-Searcher/releases)
 2. 解壓到你的 vault：`.obsidian/plugins/simplified-traditional-search/`
 3. Obsidian → 設定 → 第三方插件 → **重新載入插件**
