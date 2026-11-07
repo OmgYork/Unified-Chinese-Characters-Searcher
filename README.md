@@ -3,7 +3,7 @@
 > **Automatically match Simplified and Traditional Chinese in Obsidian's global search — type any Chinese character and find all variant results across regions.**
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?logo=obsidian)
-![Version](https://img.shields.io/github/v/release/Yorkli1/Unified-Chinese-characters-Searcher)
+![Version](https://img.shields.io/github/v/release/OmgYork/Unified-Chinese-Characters-Searcher)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi)](https://ko-fi.com/omgyork)
 
@@ -39,7 +39,7 @@ It supports four mapping modes: Simplified↔Traditional (Hong Kong), Simplified
 
 or：
 
-1. 下載最新的 [Release](https://github.com/Yorkli1/Unified-Chinese-characters-Searcher/releases)
+1. 下載最新的 [Release](https://github.com/OmgYork/Unified-Chinese-Characters-Searcher/releases)
 2. 解壓到你的 vault：`.obsidian/plugins/simplified-traditional-search/`
 3. Obsidian → 設定 → 第三方插件 → **重新載入插件**
 4. 啟用 **Unified Chinese-characters Searcher (UCCS)**
@@ -63,7 +63,7 @@ or：
 ## 開發
 
 ```bash
-git clone https://github.com/Yorkli1/Unified-Chinese-characters-Searcher.git
+git clone https://github.com/OmgYork/Unified-Chinese-Characters-Searcher.git
 cd Unified-Chinese-characters-Searcher
 npm install
 npm run dev      # 開發模式（watch）
